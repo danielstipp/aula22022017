@@ -1,0 +1,44 @@
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe.config
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Properties.Resources.resources
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csproj.GenerateResource.Cache
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.pdb
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.exe
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.pdb
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Principal.resources
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.dll
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.pdb
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Dropbox\FACENS\Disciplinas\Linguagens Formais e Autômatos - Laboratório\Aulas\Implementações\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe.config
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.exe
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.pdb
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.pdb
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.dll
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.pdb
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csprojResolveAssemblyReference.cache
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Principal.resources
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Properties.Resources.resources
+D:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csproj.GenerateResource.Cache
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe.config
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.exe
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.pdb
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.pdb
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.dll
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.dll
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.pdb
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csprojResolveAssemblyReference.cache
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Principal.resources
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Properties.Resources.resources
+E:\LFAL\AplicacaoAutomatos - Com Cortes\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csproj.GenerateResource.Cache

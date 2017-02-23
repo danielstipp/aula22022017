@@ -1,0 +1,43 @@
+﻿(2,5) 1. Criar um novo operador & que permite que os próximos 3 caracteres sejam inseridos na sequência e repetidos 0 ou mais vezes.
+
+Exemplo:
+
+Expressão: abc&def
+
+Palavras aceitas: abc, abcdef, abcdefdef, abcdefdefdef
+Palavras inválidas: abcd, abcde, abcdefd, abcdefde
+
+(3,0) 2. Passar a aceitar na expressão regular os operadores ^ (inicio de string) e $ (término de string). 
+Estes operadores sempre serão o primeiro ou último caractere da expressão regular.
+Quando os dois estiverem omitidos, deve-se considerar a presença de ambos conforme exemplos.
+
+Exemplo 1:
+
+Expressão: a (equivale a escrever a expressão ^a$)
+
+Palavras aceitas: a
+Palavras inváldias: bala, casa, etc
+
+Exemplo 2:
+
+Expressão: ^a
+
+Palavras aceitas: abana, ave, alto
+Palavras inválidas: casa, bala, etc
+
+Exemplo 3:
+
+Expressão: a$
+
+Palavras aceitas: casa, cara, mala
+Palavras inválidas: azeite, armando
+
+(4,5) 3. Passar a aceitar sub-expressões na expressão regular, sendo que subexpressão são contidas em parenteses.
+Toda sub-expressão obrigatoriamente possuirá um operador de repetição no final (*, + ou ?).
+
+Exemplo:
+
+Expressão: b(01+)*b
+
+Palavras aceitas: b010101b, b011111111b, b011111111b
+Palavras inváldias: b0000000001

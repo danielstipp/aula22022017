@@ -1,0 +1,15 @@
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe.config
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.exe
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\AplicacaoAutomatos.pdb
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.dll
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.dll
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Principal.resources
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.Properties.Resources.resources
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.csproj.GenerateResource.Cache
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.exe
+C:\Users\Daniel Stipp\Desktop\LFAL\2015S2_Avaliacao_M1_LFAPIN2\2015S2_Avaliacao_M1_LFAPIN2\AplicacaoAutomatos\AplicacaoAutomatos\obj\Debug\AplicacaoAutomatos.pdb
